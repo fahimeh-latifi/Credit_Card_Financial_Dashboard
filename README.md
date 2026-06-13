@@ -44,9 +44,10 @@ Dashboard Preview
 
 You can view the dashboard in the following file:
 
-credit_card_transaction_report.pdf
+credit.png
+credit1.png
 
-This file contains:
+Those files contain:
 
 Credit Card Financial Dashboard – Transaction
 
